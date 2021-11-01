@@ -1,1 +1,1 @@
-BasicsWorkshop
+Java basics workshop
